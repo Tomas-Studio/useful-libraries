@@ -16,6 +16,8 @@
 
 ### DevTools
 - [@antfu/ni](https://www.npmjs.com/package/@antfu/ni): never use the wrong package manager
+- [bumpp](https://www.npmjs.com/package/bumpp): Automate your release process with a single command that can
+- [consola](https://www.npmjs.com/package/consola): Elegant Console Wrapper 
 
 ### Images
 - [sharp](https://www.npmjs.com/package/sharp): Convert large images in common formats to smaller, web-friendly JPEG, PNG, WebP, GIF and AVIF images of varying dimensions
