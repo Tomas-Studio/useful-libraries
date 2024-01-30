@@ -36,3 +36,6 @@
 
 ### I18n/Language
 - [iso-639-1](https://www.npmjs.com/package/iso-639-1): Simple interface for ISO-639-1 language codes
+
+### JSON
+- [superjson](https://www.npmjs.com/package/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
